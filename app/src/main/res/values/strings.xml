@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CatDogAnalyzer</string>
+    <string name="title_activity_num_rating">NumRatingActivity</string>
+</resources>
